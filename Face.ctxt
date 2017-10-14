@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=s\ r\ v
+comment0.target=Face(java.lang.String,\ int,\ int)
+comment1.params=
+comment1.target=int\ getRank()
+comment2.params=r
+comment2.target=void\ setRank(int)
+comment3.params=v
+comment3.target=void\ setValue(int)
+comment4.params=
+comment4.target=int\ getValue()
+comment5.params=
+comment5.target=java.lang.String\ getFileLetter()
+numComments=6
